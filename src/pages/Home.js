@@ -40,7 +40,7 @@ function Home() {
             </span>{' />'} 
             </h2>
           <h6> Hi, This is SUDHANKUMAR with passion of learning and apply it in real world problems.
-              I am quit good in programming and I'm more intrested in "CyberSecurity & Ethical-Hacking".
+              I am quite good in programming and I'm more intrested in "CyberSecurity & Ethical-Hacking".
               As a learning model I give my best accuracy rate of outcome. 
               To improve my efficiency, I train myself that what I have learnt and what I am going to learn.
           </h6>
