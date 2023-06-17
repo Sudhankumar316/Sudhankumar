@@ -1,0 +1,13 @@
+.wordcounter{
+    padding: 0;
+    padding: 40px;
+    background-color: rgb(220, 112, 73);
+    height: 600px;
+}
+
+textarea{
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
