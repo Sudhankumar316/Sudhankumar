@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Personal_portfolio/static/css/main.23d6689a.css",
+    "main.js": "/Personal_portfolio/static/js/main.f8dc1f33.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/skill.jpg": "/Personal_portfolio/static/media/skill.1b2557cbe794af064114.jpg",
+    "static/media/connect.jpg": "/Personal_portfolio/static/media/connect.b8e31a56158ea399859b.jpg",
+    "static/media/axiosfetch.png": "/Personal_portfolio/static/media/axiosfetch.e6d7ba3e0d493950e9f7.png",
+    "static/media/SUDHANKUMAR.jpg": "/Personal_portfolio/static/media/SUDHANKUMAR.a89da8eab80375d71f72.jpg",
+    "static/media/reactCalculator.png": "/Personal_portfolio/static/media/reactCalculator.1576302caae190103ed3.png",
+    "static/media/ageCalculator.png": "/Personal_portfolio/static/media/ageCalculator.0a4d7296752b3808d2fb.png",
+    "static/media/wordCounter.png": "/Personal_portfolio/static/media/wordCounter.c1df49668c548ab0e957.png",
+    "static/media/colorpick.png": "/Personal_portfolio/static/media/colorpick.3049a8a2310f840f04d0.png",
+    "static/media/codeimg.avif": "/Personal_portfolio/static/media/codeimg.577026a70d14958115e5.avif",
+    "index.html": "/Personal_portfolio/index.html",
+    "main.23d6689a.css.map": "/Personal_portfolio/static/css/main.23d6689a.css.map",
+    "main.f8dc1f33.js.map": "/Personal_portfolio/static/js/main.f8dc1f33.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23d6689a.css",
+    "static/js/main.f8dc1f33.js"
+  ]
+}
